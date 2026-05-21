@@ -1,0 +1,31 @@
+# Qalatra window-manager theme (forked from Dracula)
+# Title bar PNG backgrounds are inherited from Dracula assets for now; recolor via
+# xfwm4/render-assets.sh + a Qalatra accent if/when we want violet window buttons.
+
+#button_layout=O|HMC
+button_offset=2
+button_spacing=2
+
+full_width_title=true
+
+title_font=Space Grotesk Bold 10
+
+title_horizontal_offset=0
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+title_shadow_active=false
+title_shadow_inactive=false
+
+# Qalatra fg-1 for focused title, fg-4 for backdrop
+active_text_color=#f5f6fa
+active_text_shadow_color=#f5f6fa
+inactive_text_color=#5a6078
+inactive_text_shadow_color=#5a6078
+
+shadow_delta_height=2
+shadow_delta_width=0
+shadow_delta_x=0
+shadow_delta_y=-4
+shadow_opacity=46
+
+show_popup_shadow=true

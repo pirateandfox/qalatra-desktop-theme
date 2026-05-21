@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Qalatra
+Comment=Qalatra brand theme — dark surfaces, violet accent. Forked from Dracula.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Qalatra
+MetacityTheme=Qalatra
+IconTheme=Papirus-Dark
+ButtonLayout=menu:minimize,maximize,close
